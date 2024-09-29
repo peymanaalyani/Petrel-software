@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no" ?>
+<eclipse>
+
+  <warning date="" time="">Generating the grid connections for well p1: The connection to the cell (11,43,4) has been ignored because the connected fraction is less than the % cell length tolerance. </warning>
+
+  <warning date="" time="">Generating the grid connections for well p1: The connection to the cell (11,43,10) has been ignored because the connected fraction is less than the % cell length tolerance. </warning>
+
+  <warning date="" time="">Generating the grid connections for well p3: The connection to the cell (39,43,4) has been ignored because the connected fraction is less than the % cell length tolerance. </warning>
+
+  <warning date="" time="">Generating the grid connections for well p4: The connection to the cell (39,12,10) has been ignored because the connected fraction is less than the % cell length tolerance. </warning>
+
+</eclipse>

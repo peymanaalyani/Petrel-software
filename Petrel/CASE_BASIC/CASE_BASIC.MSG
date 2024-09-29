@@ -1,0 +1,1754 @@
+<eclipse>
+<message source="eclrun" date="" time="0">
+Executing ECLIPSE on pc system with  architecture named LAPTOP-VR1JBJ5S
+</message>
+<message source="eclrun" date="" time="0">
+Process ID is 8936
+</message>
+<warning date="1/1/2022" time="0.00000000000000">
+ CPR SOLVER IS NOT AVAILABLE IN ECLIPSE 100                              
+</warning>
+<warning date="1/1/2022" time="0.00000000000000">
+ SPURIOUS DATA BEFORE MULTOUT  KEYWORD                                   
+   /                                                                     
+</warning>
+<message date="1/1/2022" time="0.00000000000000">
+ CHECKING FOR LICENSES                                                   
+</message>
+<message date="1/1/2022" time="0.00000000000000">
+ THE MEMORY REQUIRED TO PROCESS THE GRID SECTION IS                      
+       9503 KBYTES                                                       
+</message>
+<warning date="1/1/2022" time="0.00000000000000">
+ UNRECOGNISED MNEMONIC ROCKFRAC         IN DATA                          
+ FOR RPTINIT KEYWORD - IT WILL BE IGNORED                                
+</warning>
+<message date="1/1/2022" time="0.00000000000000">
+ NEITHER OLDTRAN,OLDTRANR NOR NEWTRAN SPECIFIED                          
+ TRANSMISSIBILITIES TO BE CALCULATED                                     
+ USING  NEWTRAN                                                          
+</message>
+<comment date="1/1/2022" time="0.00000000000000">
+ NO NON-NEIGHBOUR CONNECTIONS FOUND                                      
+</comment>
+<message date="1/1/2022" time="0.00000000000000">
+ NUMBER OF ACTIVE CELLS IS 25000                                         
+</message>
+<message date="1/1/2022" time="0.00000000000000">
+ THE MEMORY REQUIRED TO PROCESS THE SOLUTION SECTION IS                  
+      32550 KBYTES                                                       
+</message>
+<message date="1/1/2022" time="0.00000000000000">
+    58569 CHARACTER VARIABLES USED                                       
+</message>
+<warning date="1/1/2022" time="0.00000000000000">
+ NUMBER OF TABLES SPECIFIED IN ROCKCOMP NOT                              
+ EQUAL TO NUMBER OF TABLES SPECIFIED IN ROCKOPTS                         
+</warning>
+<message date="1/1/2022" time="0.00000000000000">
+ THE ROCK DATA FOR EACH BLOCK WILL CORRESPOND                            
+ TO THE ROCK REGION NUMBERS (ROCKNUM) AS THE                             
+ THIRD ITEM IN THE ROCKOPTS KEYWORD HAS BEEN                             
+ SET TO ROCKNUM                                                          
+</message>
+<warning date="1/1/2022" time="0.00000000000000">
+ UNRECOGNISED MNEMONIC CVOIL            IN DATA                          
+ FOR KEYWORD RPTSOL   IS IGNORED                                         
+</warning>
+<warning date="1/1/2022" time="0.00000000000000">
+ UNRECOGNISED MNEMONIC CVWAT            IN DATA                          
+ FOR KEYWORD RPTSOL   IS IGNORED                                         
+</warning>
+<warning date="1/1/2022" time="0.00000000000000">
+ UNRECOGNISED MNEMONIC CVSUR            IN DATA                          
+ FOR KEYWORD RPTSOL   IS IGNORED                                         
+</warning>
+<warning date="1/1/2022" time="0.00000000000000">
+ UNRECOGNISED MNEMONIC SME              IN DATA                          
+ FOR KEYWORD RPTSOL   IS IGNORED                                         
+</warning>
+<warning date="1/1/2022" time="0.00000000000000">
+ UNRECOGNISED MNEMONIC SIGM_MOD         IN DATA                          
+ FOR KEYWORD RPTSOL   IS IGNORED                                         
+</warning>
+<warning date="1/1/2022" time="0.00000000000000">
+ UNRECOGNISED MNEMONIC SIGM_MOD         IN DATA                          
+ FOR KEYWORD RPTSCHED IS IGNORED                                         
+</warning>
+<message date="1/1/2022" time="0.00000000000000">
+ THE TOP-UP PHASE IS SET TO WATER AS                                     
+ GROUP FIELD    HAS A TARGET OR LIMIT RESERVOIR                          
+ VOLUME RATE OR VOIDAGE REPLACEMENT FRACTION                             
+ FOR WATER INJECTION CONTROL                                             
+</message>
+<message date="1/1/2022" time="0.00000000000000">
+ **********************************                                      
+ * GROUP FIELD    CANNOT MEET ITS *                                      
+ * WATER  INJECTION  TARGET       *                                      
+ * AFTER TIME      0.00   DAYS  . *                                      
+ **********************************                                      
+</message>
+<warning date="6/3/2022" time="64.04606266898520">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="27/3/2022" time="85.83517883020833">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="27/3/2022" time="85.83517883020833">
+ LINEAR CONVERGENCE FAILURE ON LAST NUPCOL ITERATION.                    
+ GROUP TARGETS AND LIMITS MAY NOT BE ACCURATELY HONORED.                 
+ YOU MAY NEED TO INCREASE THE CURRENT VALUE OF    3                      
+ USING THE NUPCOL KEYWORD.                                               
+</warning>
+<warning date="27/3/2022" time="85.83517883020833">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="28/4/2022" time="117.88410890774949">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="28/4/2022" time="117.88410890774949">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="28/4/2022" time="117.88410890774949">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="28/4/2022" time="117.88410890774949">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="28/4/2022" time="117.88410890774949">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="28/4/2022" time="117.88410890774949">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="28/4/2022" time="117.88410890774949">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="28/4/2022" time="117.88410890774949">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     18              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="28/4/2022" time="117.88410890774949">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     18              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="28/4/2022" time="117.88410890774949">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     15              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="28/4/2022" time="117.88410890774949">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     14              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="28/4/2022" time="117.88410890774949">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<problem date="28/4/2022" time="117.88410890774949">
+ NON-LINEAR EQUATION CONVERGENCE FAILURE                                 
+ ITERATION LIMIT REACHED - TIME STEP CHOPPED FROM  40.94                 
+</problem>
+<warning date="28/5/2022" time="147.58703436867802">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="28/5/2022" time="147.58703436867802">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="28/5/2022" time="147.58703436867802">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="28/5/2022" time="147.58703436867802">
+ LINEAR CONVERGENCE FAILURE ON LAST NUPCOL ITERATION.                    
+ GROUP TARGETS AND LIMITS MAY NOT BE ACCURATELY HONORED.                 
+ YOU MAY NEED TO INCREASE THE CURRENT VALUE OF    3                      
+ USING THE NUPCOL KEYWORD.                                               
+</warning>
+<warning date="28/5/2022" time="147.58703436867802">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="28/5/2022" time="147.58703436867802">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="28/5/2022" time="147.58703436867802">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="28/5/2022" time="147.58703436867802">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="28/5/2022" time="147.58703436867802">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     25              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="28/5/2022" time="147.58703436867802">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="17/6/2022" time="167.10969094792017">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="17/6/2022" time="167.10969094792017">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     14              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="17/6/2022" time="167.10969094792017">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="17/6/2022" time="167.10969094792017">
+ LINEAR CONVERGENCE FAILURE ON LAST NUPCOL ITERATION.                    
+ GROUP TARGETS AND LIMITS MAY NOT BE ACCURATELY HONORED.                 
+ YOU MAY NEED TO INCREASE THE CURRENT VALUE OF    3                      
+ USING THE NUPCOL KEYWORD.                                               
+</warning>
+<warning date="17/6/2022" time="167.10969094792017">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     25              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="17/6/2022" time="167.10969094792017">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="17/6/2022" time="167.10969094792017">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="17/6/2022" time="167.10969094792017">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="17/6/2022" time="167.10969094792017">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="17/6/2022" time="167.10969094792017">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="17/6/2022" time="167.10969094792017">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     16              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="17/6/2022" time="167.10969094792017">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="17/6/2022" time="167.10969094792017">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     17              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="17/6/2022" time="167.10969094792017">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="17/7/2022" time="197.61384185298604">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     15              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="17/7/2022" time="197.61384185298604">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     15              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="17/7/2022" time="197.61384185298604">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     19              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="17/7/2022" time="197.61384185298604">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     20              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="17/7/2022" time="197.61384185298604">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="17/7/2022" time="197.61384185298604">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="17/7/2022" time="197.61384185298604">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="17/7/2022" time="197.61384185298604">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="17/7/2022" time="197.61384185298604">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="17/7/2022" time="197.61384185298604">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="17/7/2022" time="197.61384185298604">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     25              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="17/7/2022" time="197.61384185298604">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="17/7/2022" time="197.61384185298604">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     22              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<problem date="17/7/2022" time="197.61384185298604">
+ NON-LINEAR EQUATION CONVERGENCE FAILURE                                 
+ ITERATION LIMIT REACHED - TIME STEP CHOPPED FROM  41.24                 
+</problem>
+<warning date="16/8/2022" time="227.53641495227791">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="16/8/2022" time="227.53641495227791">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="16/8/2022" time="227.53641495227791">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     25              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="5/9/2022" time="247.20343796498298">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     19              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="5/9/2022" time="247.20343796498298">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="5/9/2022" time="247.20343796498298">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="5/9/2022" time="247.20343796498298">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="5/9/2022" time="247.20343796498298">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     16              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="5/9/2022" time="247.20343796498298">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="5/9/2022" time="247.20343796498298">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="5/10/2022" time="277.93316142233465">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="5/10/2022" time="277.93316142233465">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="5/10/2022" time="277.93316142233465">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="5/10/2022" time="277.93316142233465">
+ LINEAR CONVERGENCE FAILURE ON LAST NUPCOL ITERATION.                    
+ GROUP TARGETS AND LIMITS MAY NOT BE ACCURATELY HONORED.                 
+ YOU MAY NEED TO INCREASE THE CURRENT VALUE OF    3                      
+ USING THE NUPCOL KEYWORD.                                               
+</warning>
+<warning date="5/10/2022" time="277.93316142233465">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="5/10/2022" time="277.93316142233465">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="5/10/2022" time="277.93316142233465">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="5/10/2022" time="277.93316142233465">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="5/10/2022" time="277.93316142233465">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="5/10/2022" time="277.93316142233465">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     14              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="5/10/2022" time="277.93316142233465">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="5/10/2022" time="277.93316142233465">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     25              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="5/10/2022" time="277.93316142233465">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="18/11/2022" time="321.46658071116730">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     15              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="18/11/2022" time="321.46658071116730">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="18/11/2022" time="321.46658071116730">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="18/11/2022" time="321.46658071116730">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="18/11/2022" time="321.46658071116730">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     16              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="18/11/2022" time="321.46658071116730">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     18              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="18/11/2022" time="321.46658071116730">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     14              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="18/11/2022" time="321.46658071116730">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="18/11/2022" time="321.46658071116730">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     16              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="18/11/2022" time="321.46658071116730">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     16              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="18/11/2022" time="321.46658071116730">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     19              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="18/11/2022" time="321.46658071116730">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<problem date="18/11/2022" time="321.46658071116730">
+ NON-LINEAR EQUATION CONVERGENCE FAILURE                                 
+ ITERATION LIMIT REACHED - TIME STEP CHOPPED FROM  43.53                 
+</problem>
+<warning date="19/12/2022" time="352.38211063933045">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="19/12/2022" time="352.38211063933045">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     18              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="1/1/2023" time="365.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     14              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="1/1/2023" time="365.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="1/1/2023" time="365.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="1/1/2023" time="365.00000000000000">
+ LINEAR CONVERGENCE FAILURE ON LAST NUPCOL ITERATION.                    
+ GROUP TARGETS AND LIMITS MAY NOT BE ACCURATELY HONORED.                 
+ YOU MAY NEED TO INCREASE THE CURRENT VALUE OF    3                      
+ USING THE NUPCOL KEYWORD.                                               
+</warning>
+<warning date="1/1/2023" time="365.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     25              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="1/1/2023" time="365.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="1/1/2023" time="365.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     18              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="1/1/2023" time="365.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="1/1/2023" time="365.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="1/1/2023" time="365.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="1/1/2023" time="365.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="1/1/2023" time="365.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="1/1/2023" time="365.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     25              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="1/1/2023" time="365.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="2/2/2023" time="397.43492539043064">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     18              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="2/2/2023" time="397.43492539043064">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     16              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="2/2/2023" time="397.43492539043064">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="2/2/2023" time="397.43492539043064">
+ LINEAR CONVERGENCE FAILURE ON LAST NUPCOL ITERATION.                    
+ GROUP TARGETS AND LIMITS MAY NOT BE ACCURATELY HONORED.                 
+ YOU MAY NEED TO INCREASE THE CURRENT VALUE OF    3                      
+ USING THE NUPCOL KEYWORD.                                               
+</warning>
+<warning date="2/2/2023" time="397.43492539043064">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     14              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="2/2/2023" time="397.43492539043064">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="2/2/2023" time="397.43492539043064">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     16              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="2/2/2023" time="397.43492539043064">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="2/2/2023" time="397.43492539043064">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     25              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="2/2/2023" time="397.43492539043064">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     17              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="2/2/2023" time="397.43492539043064">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="2/2/2023" time="397.43492539043064">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     25              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="2/2/2023" time="397.43492539043064">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="2/2/2023" time="397.43492539043064">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     15              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="2/2/2023" time="397.43492539043064">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<problem date="2/2/2023" time="397.43492539043064">
+ NON-LINEAR EQUATION CONVERGENCE FAILURE                                 
+ ITERATION LIMIT REACHED - TIME STEP CHOPPED FROM  50.68                 
+</problem>
+<warning date="7/2/2023" time="402.50288255820385">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="7/2/2023" time="402.50288255820385">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="7/2/2023" time="402.50288255820385">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="13/2/2023" time="408.83782901792040">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     22              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="13/2/2023" time="408.83782901792040">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="13/2/2023" time="408.83782901792040">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="23/2/2023" time="418.73618286122752">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="23/2/2023" time="418.73618286122752">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="23/2/2023" time="418.73618286122752">
+ LINEAR CONVERGENCE FAILURE ON LAST NUPCOL ITERATION.                    
+ GROUP TARGETS AND LIMITS MAY NOT BE ACCURATELY HONORED.                 
+ YOU MAY NEED TO INCREASE THE CURRENT VALUE OF    3                      
+ USING THE NUPCOL KEYWORD.                                               
+</warning>
+<warning date="11/3/2023" time="434.20236074139484">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="11/3/2023" time="434.20236074139484">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     16              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="11/3/2023" time="434.20236074139484">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="11/3/2023" time="434.20236074139484">
+ LINEAR CONVERGENCE FAILURE ON LAST NUPCOL ITERATION.                    
+ GROUP TARGETS AND LIMITS MAY NOT BE ACCURATELY HONORED.                 
+ YOU MAY NEED TO INCREASE THE CURRENT VALUE OF    3                      
+ USING THE NUPCOL KEYWORD.                                               
+</warning>
+<warning date="11/3/2023" time="434.20236074139484">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="11/3/2023" time="434.20236074139484">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="4/4/2023" time="458.36826367915631">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="4/4/2023" time="458.36826367915631">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="4/4/2023" time="458.36826367915631">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="4/4/2023" time="458.36826367915631">
+ LINEAR CONVERGENCE FAILURE ON LAST NUPCOL ITERATION.                    
+ GROUP TARGETS AND LIMITS MAY NOT BE ACCURATELY HONORED.                 
+ YOU MAY NEED TO INCREASE THE CURRENT VALUE OF    3                      
+ USING THE NUPCOL KEYWORD.                                               
+</warning>
+<warning date="4/4/2023" time="458.36826367915631">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     25              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="4/4/2023" time="458.36826367915631">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="4/4/2023" time="458.36826367915631">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     23              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="4/4/2023" time="458.36826367915631">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     14              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="4/4/2023" time="458.36826367915631">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     17              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="4/4/2023" time="458.36826367915631">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="4/4/2023" time="458.36826367915631">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="4/4/2023" time="458.36826367915631">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="4/4/2023" time="458.36826367915631">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="4/4/2023" time="458.36826367915631">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     25              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="4/4/2023" time="458.36826367915631">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     17              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<problem date="4/4/2023" time="458.36826367915631">
+ NON-LINEAR EQUATION CONVERGENCE FAILURE                                 
+ ITERATION LIMIT REACHED - TIME STEP CHOPPED FROM  37.76                 
+</problem>
+<warning date="12/4/2023" time="466.86408905731076">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="20/4/2023" time="474.23893747584759">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="20/4/2023" time="474.23893747584759">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="20/4/2023" time="474.23893747584759">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="20/4/2023" time="474.23893747584759">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     25              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="1/5/2023" time="485.76213812981138">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="16/6/2023" time="531.89995324822110">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     14              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="16/6/2023" time="531.89995324822110">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="16/6/2023" time="531.89995324822110">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="16/6/2023" time="531.89995324822110">
+ LINEAR CONVERGENCE FAILURE ON LAST NUPCOL ITERATION.                    
+ GROUP TARGETS AND LIMITS MAY NOT BE ACCURATELY HONORED.                 
+ YOU MAY NEED TO INCREASE THE CURRENT VALUE OF    3                      
+ USING THE NUPCOL KEYWORD.                                               
+</warning>
+<warning date="16/6/2023" time="531.89995324822110">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     25              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="16/6/2023" time="531.89995324822110">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="16/6/2023" time="531.89995324822110">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="16/6/2023" time="531.89995324822110">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     25              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="16/6/2023" time="531.89995324822110">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     15              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="16/6/2023" time="531.89995324822110">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="16/6/2023" time="531.89995324822110">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="16/6/2023" time="531.89995324822110">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="30/7/2023" time="575.85747527414503">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="30/7/2023" time="575.85747527414503">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     15              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="30/7/2023" time="575.85747527414503">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="30/7/2023" time="575.85747527414503">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="30/7/2023" time="575.85747527414503">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     25              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="30/7/2023" time="575.85747527414503">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="30/7/2023" time="575.85747527414503">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="30/7/2023" time="575.85747527414503">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="30/7/2023" time="575.85747527414503">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="30/7/2023" time="575.85747527414503">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     19              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="30/7/2023" time="575.85747527414503">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="30/7/2023" time="575.85747527414503">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="30/7/2023" time="575.85747527414503">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<problem date="30/7/2023" time="575.85747527414503">
+ NON-LINEAR EQUATION CONVERGENCE FAILURE                                 
+ ITERATION LIMIT REACHED - TIME STEP CHOPPED FROM  68.68                 
+</problem>
+<warning date="6/8/2023" time="582.72583819304225">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     18              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="18/9/2023" time="625.68664336446466">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="18/9/2023" time="625.68664336446466">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="18/9/2023" time="625.68664336446466">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="21/10/2023" time="658.43754992201127">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="21/10/2023" time="658.43754992201127">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     21              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="26/11/2023" time="694.21877496100569">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="26/11/2023" time="694.21877496100569">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="26/11/2023" time="694.21877496100569">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="26/11/2023" time="694.21877496100569">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     20              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="26/11/2023" time="694.21877496100569">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="26/11/2023" time="694.21877496100569">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="9/1/2024" time="738.85818787852986">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="9/1/2024" time="738.85818787852986">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     25              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="9/1/2024" time="738.85818787852986">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     18              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="8/2/2024" time="768.72375078054961">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="2/3/2024" time="791.85614170445251">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="23/3/2024" time="812.92867061071979">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="23/3/2024" time="812.92867061071979">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="23/3/2024" time="812.92867061071979">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     25              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="20/4/2024" time="840.29281568679710">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="20/4/2024" time="840.29281568679710">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="20/4/2024" time="840.29281568679710">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     23              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="20/4/2024" time="840.29281568679710">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="20/4/2024" time="840.29281568679710">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="20/4/2024" time="840.29281568679710">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="20/4/2024" time="840.29281568679710">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="20/4/2024" time="840.29281568679710">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     25              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="9/6/2024" time="890.01895597263911">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="9/6/2024" time="890.01895597263911">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     19              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="9/6/2024" time="890.01895597263911">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="9/6/2024" time="890.01895597263911">
+ LINEAR CONVERGENCE FAILURE ON LAST NUPCOL ITERATION.                    
+ GROUP TARGETS AND LIMITS MAY NOT BE ACCURATELY HONORED.                 
+ YOU MAY NEED TO INCREASE THE CURRENT VALUE OF    3                      
+ USING THE NUPCOL KEYWORD.                                               
+</warning>
+<warning date="9/6/2024" time="890.01895597263911">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="9/6/2024" time="890.01895597263911">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="9/6/2024" time="890.01895597263911">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="9/6/2024" time="890.01895597263911">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     21              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="9/6/2024" time="890.01895597263911">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="9/6/2024" time="890.01895597263911">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="9/6/2024" time="890.01895597263911">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="9/6/2024" time="890.01895597263911">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="9/6/2024" time="890.01895597263911">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<problem date="9/6/2024" time="890.01895597263911">
+ NON-LINEAR EQUATION CONVERGENCE FAILURE                                 
+ ITERATION LIMIT REACHED - TIME STEP CHOPPED FROM  79.00                 
+</problem>
+<warning date="12/7/2024" time="923.22229277159215">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     15              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="12/7/2024" time="923.22229277159215">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     18              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="5/8/2024" time="947.33019878848995">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="5/8/2024" time="947.33019878848995">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="5/8/2024" time="947.33019878848995">
+ LINEAR CONVERGENCE FAILURE ON LAST NUPCOL ITERATION.                    
+ GROUP TARGETS AND LIMITS MAY NOT BE ACCURATELY HONORED.                 
+ YOU MAY NEED TO INCREASE THE CURRENT VALUE OF    3                      
+ USING THE NUPCOL KEYWORD.                                               
+</warning>
+<warning date="5/8/2024" time="947.33019878848995">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="5/8/2024" time="947.33019878848995">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="11/9/2024" time="984.99880193989281">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="11/9/2024" time="984.99880193989281">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     23              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="11/9/2024" time="984.99880193989281">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     18              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="11/9/2024" time="984.99880193989281">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="11/9/2024" time="984.99880193989281">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="11/9/2024" time="984.99880193989281">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="6/11/2024" time="1040.49940096994669">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="6/11/2024" time="1040.49940096994669">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     16              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="6/11/2024" time="1040.49940096994669">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="6/11/2024" time="1040.49940096994669">
+ LINEAR CONVERGENCE FAILURE ON LAST NUPCOL ITERATION.                    
+ GROUP TARGETS AND LIMITS MAY NOT BE ACCURATELY HONORED.                 
+ YOU MAY NEED TO INCREASE THE CURRENT VALUE OF    3                      
+ USING THE NUPCOL KEYWORD.                                               
+</warning>
+<warning date="6/11/2024" time="1040.49940096994669">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     25              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="6/11/2024" time="1040.49940096994669">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="6/11/2024" time="1040.49940096994669">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="6/11/2024" time="1040.49940096994669">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="6/11/2024" time="1040.49940096994669">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     15              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="6/11/2024" time="1040.49940096994669">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="6/11/2024" time="1040.49940096994669">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="1/1/2025" time="1096.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="1/1/2025" time="1096.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     23              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="1/1/2025" time="1096.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="1/1/2025" time="1096.00000000000000">
+ LINEAR CONVERGENCE FAILURE ON LAST NUPCOL ITERATION.                    
+ GROUP TARGETS AND LIMITS MAY NOT BE ACCURATELY HONORED.                 
+ YOU MAY NEED TO INCREASE THE CURRENT VALUE OF    3                      
+ USING THE NUPCOL KEYWORD.                                               
+</warning>
+<warning date="1/1/2025" time="1096.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="1/1/2025" time="1096.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     18              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="1/1/2025" time="1096.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     23              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="1/1/2025" time="1096.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     15              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="1/1/2025" time="1096.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="1/1/2025" time="1096.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="1/1/2025" time="1096.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="1/1/2025" time="1096.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="1/1/2025" time="1096.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     15              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<problem date="1/1/2025" time="1096.00000000000000">
+ NON-LINEAR EQUATION CONVERGENCE FAILURE                                 
+ ITERATION LIMIT REACHED - TIME STEP CHOPPED FROM  96.31                 
+</problem>
+<warning date="22/1/2025" time="1117.66910344020744">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="10/2/2025" time="1136.47908906538760">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="10/2/2025" time="1136.47908906538760">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     21              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="10/2/2025" time="1136.47908906538760">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="10/2/2025" time="1136.47908906538760">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     25              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="11/3/2025" time="1165.86969160473154">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="11/3/2025" time="1165.86969160473154">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="11/3/2025" time="1165.86969160473154">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="11/3/2025" time="1165.86969160473154">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="11/3/2025" time="1165.86969160473154">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     25              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="11/3/2025" time="1165.86969160473154">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     14              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="11/3/2025" time="1165.86969160473154">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="11/3/2025" time="1165.86969160473154">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="26/4/2025" time="1211.79250807245649">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="26/4/2025" time="1211.79250807245649">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="26/4/2025" time="1211.79250807245649">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="26/4/2025" time="1211.79250807245649">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     14              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="26/4/2025" time="1211.79250807245649">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="26/4/2025" time="1211.79250807245649">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="26/4/2025" time="1211.79250807245649">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     19              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="26/4/2025" time="1211.79250807245649">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="7/7/2025" time="1283.54690880327666">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="7/7/2025" time="1283.54690880327666">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="7/7/2025" time="1283.54690880327666">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     15              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="7/7/2025" time="1283.54690880327666">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="7/7/2025" time="1283.54690880327666">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="7/7/2025" time="1283.54690880327666">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="7/7/2025" time="1283.54690880327666">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     14              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="7/7/2025" time="1283.54690880327666">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="7/7/2025" time="1283.54690880327666">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     25              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="7/7/2025" time="1283.54690880327666">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="7/7/2025" time="1283.54690880327666">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="7/7/2025" time="1283.54690880327666">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="7/7/2025" time="1283.54690880327666">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<problem date="7/7/2025" time="1283.54690880327666">
+ NON-LINEAR EQUATION CONVERGENCE FAILURE                                 
+ ITERATION LIMIT REACHED - TIME STEP CHOPPED FROM  88.73                 
+</problem>
+<warning date="26/11/2025" time="1425.61254666030686">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="26/11/2025" time="1425.61254666030686">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="1/1/2026" time="1461.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="1/1/2026" time="1461.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     23              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="1/1/2026" time="1461.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="1/1/2026" time="1461.00000000000000">
+ LINEAR CONVERGENCE FAILURE ON LAST NUPCOL ITERATION.                    
+ GROUP TARGETS AND LIMITS MAY NOT BE ACCURATELY HONORED.                 
+ YOU MAY NEED TO INCREASE THE CURRENT VALUE OF    3                      
+ USING THE NUPCOL KEYWORD.                                               
+</warning>
+<warning date="1/1/2026" time="1461.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     20              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="1/1/2026" time="1461.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="1/1/2026" time="1461.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="1/1/2026" time="1461.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     16              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="1/1/2026" time="1461.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="1/1/2026" time="1461.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     14              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="1/1/2026" time="1461.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     18              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="1/1/2026" time="1461.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="1/1/2026" time="1461.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     25              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="1/1/2026" time="1461.00000000000000">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     14              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<problem date="1/1/2026" time="1461.00000000000000">
+ NON-LINEAR EQUATION CONVERGENCE FAILURE                                 
+ ITERATION LIMIT REACHED - TIME STEP CHOPPED FROM 106.16                 
+</problem>
+<warning date="14/2/2026" time="1505.62136761042962">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="14/2/2026" time="1505.62136761042962">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="14/2/2026" time="1505.62136761042962">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="14/2/2026" time="1505.62136761042962">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="14/2/2026" time="1505.62136761042962">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     25              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="14/2/2026" time="1505.62136761042962">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="19/3/2026" time="1538.01954925136670">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     14              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="19/3/2026" time="1538.01954925136670">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="19/3/2026" time="1538.01954925136670">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="19/3/2026" time="1538.01954925136670">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="19/3/2026" time="1538.01954925136670">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="19/3/2026" time="1538.01954925136670">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="8/5/2026" time="1588.64170806533070">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     17              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="8/5/2026" time="1588.64170806533070">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="8/5/2026" time="1588.64170806533070">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="8/5/2026" time="1588.64170806533070">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="8/5/2026" time="1588.64170806533070">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     14              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="8/5/2026" time="1588.64170806533070">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="8/5/2026" time="1588.64170806533070">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="8/5/2026" time="1588.64170806533070">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="8/5/2026" time="1588.64170806533070">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="26/7/2026" time="1667.73883121214953">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="26/7/2026" time="1667.73883121214953">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     16              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="26/7/2026" time="1667.73883121214953">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     16              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="26/7/2026" time="1667.73883121214953">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="26/7/2026" time="1667.73883121214953">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="26/7/2026" time="1667.73883121214953">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="26/7/2026" time="1667.73883121214953">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="26/7/2026" time="1667.73883121214953">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     24              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="26/7/2026" time="1667.73883121214953">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     21              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="26/7/2026" time="1667.73883121214953">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     14              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="26/7/2026" time="1667.73883121214953">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="26/7/2026" time="1667.73883121214953">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     25              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<problem date="26/7/2026" time="1667.73883121214953">
+ NON-LINEAR EQUATION CONVERGENCE FAILURE                                 
+ ITERATION LIMIT REACHED - TIME STEP CHOPPED FROM  79.13                 
+</problem>
+<warning date="28/8/2026" time="1700.99840546082760">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     13              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="22/9/2026" time="1725.14714373385709">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="22/9/2026" time="1725.14714373385709">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU (A) INCREASE NSTACK (= 10 - RUNSPEC SECTION)     25              
+     OR (B) MAKE NSTACK NEGATIVE ( EXTENDS STACK ON DISK )               
+</warning>
+<warning date="22/9/2026" time="1725.14714373385709">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="22/9/2026" time="1725.14714373385709">
+ LINEAR CONVERGENCE FAILURE ON LAST NUPCOL ITERATION.                    
+ GROUP TARGETS AND LIMITS MAY NOT BE ACCURATELY HONORED.                 
+ YOU MAY NEED TO INCREASE THE CURRENT VALUE OF    3                      
+ USING THE NUPCOL KEYWORD.                                               
+</warning>
+<warning date="22/9/2026" time="1725.14714373385709">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="22/9/2026" time="1725.14714373385709">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="22/9/2026" time="1725.14714373385709">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+<warning date="29/10/2026" time="1762.87954728546561">
+ LINEAR EQUATIONS NOT FULLY CONVERGED - RUN MAY GO FASTER                
+ IF YOU INCREASE LITMAX (= 25 - TUNING KEYWORD)                          
+</warning>
+</eclipse>

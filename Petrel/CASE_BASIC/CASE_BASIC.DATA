@@ -1,0 +1,110 @@
+-- Generated [
+-- Format      : ECLIPSE keywords (ASCII)
+-- Exported by : Petrel 2017.4 Schlumberger
+-- User name   : user
+-- Date        : Wednesday, January 04 2023 02:14:44
+-- Project     : alyani_400134038.pet
+-- Generated ]
+
+RUNSPEC
+
+TITLE                                  -- Generated : Petrel
+'CASE_BASIC'
+
+WELLDIMS                               -- Generated : Petrel
+  5 10 2 5 /
+
+START                                  -- Generated : Petrel
+  1 JAN 2022 /
+
+WATER                                  -- Generated : Petrel
+
+OIL                                    -- Generated : Petrel
+
+GAS                                    -- Generated : Petrel
+
+PETOPTS                                -- Generated : Petrel
+INITNNC /
+
+MONITOR                                -- Generated : Petrel
+
+CPR                                    -- Generated : Petrel
+  /
+
+MULTOUT                                -- Generated : Petrel
+
+FIELD                                  -- Generated : Petrel
+
+DIMENS                                 -- Generated : Petrel
+  50 50 10 /
+
+TABDIMS                                -- Generated : Petrel
+  12* 1 /
+
+GRID
+
+INCLUDE                                -- Generated : Petrel
+'CASE_BASIC_GRID.INC' /
+
+NOECHO                                 -- Generated : Petrel
+
+INCLUDE                                -- Generated : Petrel
+'CASE_BASIC_GRID.GRDECL' /
+
+INCLUDE                                -- Generated : Petrel
+'CASE_BASIC_PROP_PERMX.GRDECL' /
+
+INCLUDE                                -- Generated : Petrel
+'CASE_BASIC_PROP_PERMY.GRDECL' /
+
+INCLUDE                                -- Generated : Petrel
+'CASE_BASIC_PROP_PERMZ.GRDECL' /
+
+INCLUDE                                -- Generated : Petrel
+'CASE_BASIC_PROP_PORO.GRDECL' /
+
+INCLUDE                                -- Generated : Petrel
+'CASE_BASIC_PROP_NTG.GRDECL' /
+
+ECHO                                   -- Generated : Petrel
+
+EDIT
+
+PROPS
+
+INCLUDE                                -- Generated : Petrel
+'CASE_BASIC_PROPS.INC' /
+
+REGIONS
+
+NOECHO                                 -- Generated : Petrel
+
+INCLUDE                                -- Generated : Petrel
+'CASE_BASIC_PROP_SATNUM.GRDECL' /
+
+INCLUDE                                -- Generated : Petrel
+'CASE_BASIC_PROP_PVTNUM.GRDECL' /
+
+INCLUDE                                -- Generated : Petrel
+'CASE_BASIC_PROP_ROCKNUM.GRDECL' /
+
+INCLUDE                                -- Generated : Petrel
+'CASE_BASIC_PROP_EQLNUM.GRDECL' /
+
+ECHO                                   -- Generated : Petrel
+
+SOLUTION
+
+INCLUDE                                -- Generated : Petrel
+'CASE_BASIC_SOL.INC' /
+
+SUMMARY
+
+INCLUDE                                -- Generated : Petrel
+'CASE_BASIC_SUM.INC' /
+
+SCHEDULE
+
+INCLUDE                                -- Generated : Petrel
+'CASE_BASIC_SCH.INC' /
+

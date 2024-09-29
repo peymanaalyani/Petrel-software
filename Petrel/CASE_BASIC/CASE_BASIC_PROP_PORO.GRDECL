@@ -1,0 +1,14 @@
+-- Generated [
+-- Format      : ECLIPSE keywords (grid properties) (ASCII)
+-- Exported by : Petrel 2017.4 Schlumberger
+-- User name   : user
+-- Date        : Wednesday, January 04 2023 02:14:45
+-- Project     : alyani_400134038.pet
+-- Grid        : 400134032_project
+-- Unit system : ECLIPSE-Field
+-- Generated ]
+
+PORO                                   -- Generated : Petrel
+-- Property name in Petrel : poro
+  5000*0.2 5000*0.12 5000*0.14 5000*0.09 5000*0.07 /
+

@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<summaryContentIndex xmlns="http://www.slb.com/Ecl/EclIO/SummaryContentIndex">
+
+  <!--Do not modify this file.  This contains cache data used to speed up loading/reading of summary data.  Any modification may result in inconsistencies between the original data and the cache, and consequently erroneous loading or even a program crash.  This file may be deleted, in which case it may be re-generated the next time the summary data is loaded-->
+
+  <version xmlns="">1</version>
+
+  <numVectors xmlns="">209</numVectors>
+
+  <files xmlns="">
+    <file xmlns="">
+      <fileName xmlns="">CASE_BASIC.S0001</fileName>
+      <fileStamp xmlns="">
+        <year xmlns="">2023</year>
+        <month xmlns="">1</month>
+        <day xmlns="">3</day>
+        <hour xmlns="">22</hour>
+        <minute xmlns="">44</minute>
+        <second xmlns="">59</second>
+        <length xmlns="">26252</length>
+      </fileStamp>
+    </file>
+    <file xmlns="">
+      <fileName xmlns="">CASE_BASIC.S0002</fileName>
+      <fileStamp xmlns="">
+        <year xmlns="">2023</year>
+        <month xmlns="">1</month>
+        <day xmlns="">3</day>
+        <hour xmlns="">22</hour>
+        <minute xmlns="">45</minute>
+        <second xmlns="">11</second>
+        <length xmlns="">18116</length>
+      </fileStamp>
+    </file>
+    <file xmlns="">
+      <fileName xmlns="">CASE_BASIC.S0003</fileName>
+      <fileStamp xmlns="">
+        <year xmlns="">2023</year>
+        <month xmlns="">1</month>
+        <day xmlns="">3</day>
+        <hour xmlns="">22</hour>
+        <minute xmlns="">45</minute>
+        <second xmlns="">11</second>
+        <length xmlns="">940</length>
+      </fileStamp>
+    </file>
+    <file xmlns="">
+      <fileName xmlns="">CASE_BASIC.S0004</fileName>
+      <fileStamp xmlns="">
+        <year xmlns="">2023</year>
+        <month xmlns="">1</month>
+        <day xmlns="">3</day>
+        <hour xmlns="">22</hour>
+        <minute xmlns="">45</minute>
+        <second xmlns="">18</second>
+        <length xmlns="">14500</length>
+      </fileStamp>
+    </file>
+    <file xmlns="">
+      <fileName xmlns="">CASE_BASIC.S0005</fileName>
+      <fileStamp xmlns="">
+        <year xmlns="">2023</year>
+        <month xmlns="">1</month>
+        <day xmlns="">3</day>
+        <hour xmlns="">22</hour>
+        <minute xmlns="">45</minute>
+        <second xmlns="">25</second>
+        <length xmlns="">11788</length>
+      </fileStamp>
+    </file>
+    <file xmlns="">
+      <fileName xmlns="">CASE_BASIC.S0006</fileName>
+      <fileStamp xmlns="">
+        <year xmlns="">2023</year>
+        <month xmlns="">1</month>
+        <day xmlns="">3</day>
+        <hour xmlns="">22</hour>
+        <minute xmlns="">45</minute>
+        <second xmlns="">33</second>
+        <length xmlns="">11788</length>
+      </fileStamp>
+    </file>
+  </files>
+
+  <contentIndex xmlns="">
+    <reportStep xmlns="">
+      <fileName xmlns="">CASE_BASIC.S0001</fileName>
+      <miniStep xmlns="">
+        <number xmlns="">0</number>
+        <offset xmlns="">72</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">1</number>
+        <offset xmlns="">976</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">2</number>
+        <offset xmlns="">1880</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">3</number>
+        <offset xmlns="">2784</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">4</number>
+        <offset xmlns="">3688</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">5</number>
+        <offset xmlns="">4592</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">6</number>
+        <offset xmlns="">5496</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">7</number>
+        <offset xmlns="">6400</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">8</number>
+        <offset xmlns="">7304</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">9</number>
+        <offset xmlns="">8208</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">10</number>
+        <offset xmlns="">9112</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">11</number>
+        <offset xmlns="">10016</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">12</number>
+        <offset xmlns="">10920</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">13</number>
+        <offset xmlns="">11824</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">14</number>
+        <offset xmlns="">12728</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">15</number>
+        <offset xmlns="">13632</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">16</number>
+        <offset xmlns="">14536</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">17</number>
+        <offset xmlns="">15440</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">18</number>
+        <offset xmlns="">16344</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">19</number>
+        <offset xmlns="">17248</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">20</number>
+        <offset xmlns="">18152</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">21</number>
+        <offset xmlns="">19056</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">22</number>
+        <offset xmlns="">19960</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">23</number>
+        <offset xmlns="">20864</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">24</number>
+        <offset xmlns="">21768</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">25</number>
+        <offset xmlns="">22672</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">26</number>
+        <offset xmlns="">23576</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">27</number>
+        <offset xmlns="">24480</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">28</number>
+        <offset xmlns="">25384</offset>
+      </miniStep>
+    </reportStep>
+    <reportStep xmlns="">
+      <fileName xmlns="">CASE_BASIC.S0002</fileName>
+      <miniStep xmlns="">
+        <number xmlns="">29</number>
+        <offset xmlns="">72</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">30</number>
+        <offset xmlns="">976</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">31</number>
+        <offset xmlns="">1880</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">32</number>
+        <offset xmlns="">2784</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">33</number>
+        <offset xmlns="">3688</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">34</number>
+        <offset xmlns="">4592</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">35</number>
+        <offset xmlns="">5496</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">36</number>
+        <offset xmlns="">6400</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">37</number>
+        <offset xmlns="">7304</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">38</number>
+        <offset xmlns="">8208</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">39</number>
+        <offset xmlns="">9112</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">40</number>
+        <offset xmlns="">10016</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">41</number>
+        <offset xmlns="">10920</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">42</number>
+        <offset xmlns="">11824</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">43</number>
+        <offset xmlns="">12728</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">44</number>
+        <offset xmlns="">13632</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">45</number>
+        <offset xmlns="">14536</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">46</number>
+        <offset xmlns="">15440</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">47</number>
+        <offset xmlns="">16344</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">48</number>
+        <offset xmlns="">17248</offset>
+      </miniStep>
+    </reportStep>
+    <reportStep xmlns="">
+      <fileName xmlns="">CASE_BASIC.S0003</fileName>
+      <miniStep xmlns="">
+        <number xmlns="">49</number>
+        <offset xmlns="">72</offset>
+      </miniStep>
+    </reportStep>
+    <reportStep xmlns="">
+      <fileName xmlns="">CASE_BASIC.S0004</fileName>
+      <miniStep xmlns="">
+        <number xmlns="">50</number>
+        <offset xmlns="">72</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">51</number>
+        <offset xmlns="">976</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">52</number>
+        <offset xmlns="">1880</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">53</number>
+        <offset xmlns="">2784</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">54</number>
+        <offset xmlns="">3688</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">55</number>
+        <offset xmlns="">4592</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">56</number>
+        <offset xmlns="">5496</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">57</number>
+        <offset xmlns="">6400</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">58</number>
+        <offset xmlns="">7304</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">59</number>
+        <offset xmlns="">8208</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">60</number>
+        <offset xmlns="">9112</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">61</number>
+        <offset xmlns="">10016</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">62</number>
+        <offset xmlns="">10920</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">63</number>
+        <offset xmlns="">11824</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">64</number>
+        <offset xmlns="">12728</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">65</number>
+        <offset xmlns="">13632</offset>
+      </miniStep>
+    </reportStep>
+    <reportStep xmlns="">
+      <fileName xmlns="">CASE_BASIC.S0005</fileName>
+      <miniStep xmlns="">
+        <number xmlns="">66</number>
+        <offset xmlns="">72</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">67</number>
+        <offset xmlns="">976</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">68</number>
+        <offset xmlns="">1880</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">69</number>
+        <offset xmlns="">2784</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">70</number>
+        <offset xmlns="">3688</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">71</number>
+        <offset xmlns="">4592</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">72</number>
+        <offset xmlns="">5496</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">73</number>
+        <offset xmlns="">6400</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">74</number>
+        <offset xmlns="">7304</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">75</number>
+        <offset xmlns="">8208</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">76</number>
+        <offset xmlns="">9112</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">77</number>
+        <offset xmlns="">10016</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">78</number>
+        <offset xmlns="">10920</offset>
+      </miniStep>
+    </reportStep>
+    <reportStep xmlns="">
+      <fileName xmlns="">CASE_BASIC.S0006</fileName>
+      <miniStep xmlns="">
+        <number xmlns="">79</number>
+        <offset xmlns="">72</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">80</number>
+        <offset xmlns="">976</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">81</number>
+        <offset xmlns="">1880</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">82</number>
+        <offset xmlns="">2784</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">83</number>
+        <offset xmlns="">3688</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">84</number>
+        <offset xmlns="">4592</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">85</number>
+        <offset xmlns="">5496</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">86</number>
+        <offset xmlns="">6400</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">87</number>
+        <offset xmlns="">7304</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">88</number>
+        <offset xmlns="">8208</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">89</number>
+        <offset xmlns="">9112</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">90</number>
+        <offset xmlns="">10016</offset>
+      </miniStep>
+      <miniStep xmlns="">
+        <number xmlns="">91</number>
+        <offset xmlns="">10920</offset>
+      </miniStep>
+    </reportStep>
+  </contentIndex>
+
+</summaryContentIndex>

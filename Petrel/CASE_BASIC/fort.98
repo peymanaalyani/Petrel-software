@@ -1,0 +1,24 @@
+<warning date="1/1/0" time="0.00000000000000">
+ UNRECOGNISED MNEMONIC CVOIL            IN DATA                          
+ FOR KEYWORD RPTSOL   IS IGNORED                                         
+</warning>
+<warning date="1/1/0" time="0.00000000000000">
+ UNRECOGNISED MNEMONIC CVWAT            IN DATA                          
+ FOR KEYWORD RPTSOL   IS IGNORED                                         
+</warning>
+<warning date="1/1/0" time="0.00000000000000">
+ UNRECOGNISED MNEMONIC CVSUR            IN DATA                          
+ FOR KEYWORD RPTSOL   IS IGNORED                                         
+</warning>
+<warning date="1/1/0" time="0.00000000000000">
+ UNRECOGNISED MNEMONIC SME              IN DATA                          
+ FOR KEYWORD RPTSOL   IS IGNORED                                         
+</warning>
+<warning date="1/1/0" time="0.00000000000000">
+ UNRECOGNISED MNEMONIC SIGM_MOD         IN DATA                          
+ FOR KEYWORD RPTSOL   IS IGNORED                                         
+</warning>
+<warning date="1/1/0" time="0.00000000000000">
+ UNRECOGNISED MNEMONIC SIGM_MOD         IN DATA                          
+ FOR KEYWORD RPTSCHED IS IGNORED                                         
+</warning>
